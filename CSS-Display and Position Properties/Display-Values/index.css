@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.image-item {
+    width: 250px;
+    height: 180px;
+}
+
+.image-wrapper {
+    display: inline-block;
+    padding: 8px;
+}
+
+.menu-items {
+    padding: 8px;
+    display: block;
+    visibility: visible;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(199, 199, 236);
+    margin: 0;
+}
+
+#article{
+    font-size: medium;
+    font-family:'Roboto Mono', monospace;
+    line-height: 1.5;
+    padding-bottom: 80px;
+}
+
+#article-wrapper{
+    padding: 4% 16%;
+}
+
+.article-pic{
+    width: 400px;
+    height: 300px;
+    float: left;
+    margin-right: 16px;
+}
+
+#second-image{
+    float: right;
+    margin-left: 16px;
+}

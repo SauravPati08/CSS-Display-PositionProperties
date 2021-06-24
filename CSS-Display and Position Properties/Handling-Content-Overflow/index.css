@@ -1,0 +1,24 @@
+#nature-image{
+    width: 700px;
+    height: 360px;
+}
+
+#wrapper1{
+    width: 600px;
+    height: 260px;
+    overflow: visible;
+    padding-bottom: 200px;
+}
+
+#wrapper2{
+    width: 600px;
+    height: 260px;
+    overflow: hidden;
+}
+
+#wrapper3{
+    width: 600px;
+    height: 260px;
+    overflow: scroll;
+    padding-top: 200px;
+}
